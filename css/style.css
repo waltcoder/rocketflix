@@ -86,3 +86,14 @@ section > p {
 	width: min(90vw, 460px);
 	margin: auto;
 }
+
+footer {
+	font-size: 14px;
+	text-align: center;
+	color: hsla(30, 100%, 99%, 1);
+	padding: 5rem 0;
+}
+footer a {
+	color: hsla(30, 100%, 99%, 1);
+	text-decoration: none;
+}
