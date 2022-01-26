@@ -37,6 +37,7 @@ body {
 
 section {
 	width: min(90vw, 800px);
+	margin: auto;
 	text-align: center;
 }
 
